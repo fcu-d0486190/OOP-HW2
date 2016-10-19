@@ -5,7 +5,6 @@ import java.util.Scanner;
 public class StringComparator {
 
 	public static void main(String[] args) {
-		// TODO Auto-generated method stub
 		Scanner keyboard = new Scanner(System.in);
 		while(true){
 			System.out.println("Enter a string 1:");
